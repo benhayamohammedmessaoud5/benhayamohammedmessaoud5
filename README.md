@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benhaya mohammed messaoud
-- 💻 I’m interested in Web/Mobile developpement using Mern stack & dart & xamarin
+- 💻 I’m interested in Web/Mobile developpement using Mern stack/dart & xamarin
 - ➶ I’m currently learning Xamarin & node Js 
 - 🤝 I’m looking to collaborate on Some projects of Web/Mobile Apps developpement
 - 📫 How to reach me By Email " benhayamessaoud518@gmail.com "
